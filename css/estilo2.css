@@ -1,0 +1,20 @@
+.caixa {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(20, 19, 19, 0.336);
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+
+.content-home {
+		font-family: "SF-Fourche";
+		font-size: 300%;
+		line-height: 120%;
+		margin: auto;
+		text-align: center;
+	}
+
+.info-aurelion {
+	text-align: justify;
+}
